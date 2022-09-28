@@ -7,6 +7,6 @@ public class Test {
     }
 
     public String toString () {
-        return "" + num + " Mr. Wang is cool";
+        return "" + num + " Mr. Wang is rad";
     }
 }
